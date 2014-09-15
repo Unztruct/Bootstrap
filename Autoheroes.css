@@ -1,0 +1,51 @@
+
+#Main_sheet {
+    
+    width: 900px;
+    height: 1080px;
+    background-color: white;
+    border-radius: 15px 15px 5px 5px;
+    margin: auto;
+
+}
+
+
+#wrapper {
+    
+margin-left: 0px;
+margin-right: 0px;
+margin-top: 0px;
+margin-bottom: 0px;
+
+    background-image: -webkit-gradient(
+	linear,
+	left top,
+	left bottom,
+	color-stop(0.56, #DEDEDE),
+	color-stop(0.93, #FFE282)
+);
+background-image: -o-linear-gradient(bottom, #DEDEDE 56%, #FFE282 93%);
+background-image: -moz-linear-gradient(bottom, #DEDEDE 56%, #FFE282 93%);
+background-image: -webkit-linear-gradient(bottom, #DEDEDE 56%, #FFE282 93%);
+background-image: -ms-linear-gradient(bottom, #DEDEDE 56%, #FFE282 93%);
+background-image: linear-gradient(to bottom, #DEDEDE 56%, #FFE282 93%);
+    
+    
+}
+
+
+
+#minor_menue {
+    
+    
+    
+    
+    
+}
+
+#minor_menue ol li a {
+    
+    text-decoration: none;
+    color: black;
+    
+}
