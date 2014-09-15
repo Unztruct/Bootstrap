@@ -13,6 +13,6 @@ and open the template in the editor.
         <?php
         // put your code here
         ?>
-        
+        <p> Turn away, all ye who wander. </p>
     </body>
 </html>
